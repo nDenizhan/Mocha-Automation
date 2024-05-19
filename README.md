@@ -5,7 +5,7 @@ In brief, following user actions are covered such as;
  * Navigating around the tabs.
  * Entering the online exam sessions.
  * Interacting with the exam tools inside the live exam editor.
- * Acessing the admin pages.
+ * Accessing the admin pages.
  * Uploading and apparently completeing their exam sessions.
 
 
